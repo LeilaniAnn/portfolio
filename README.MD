@@ -1,4 +1,4 @@
-# [Fresh Tomatoes]
+# [Leilani Raranga : Portfolio]
 
 Portfolio is a one-page application displaying testing my HTML/CSS knowledge by replicating given [mockup](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/design-mockup-portfolio.pdf), created by [Leilani Raranga](https://github.com/Leilaniann) for the Udacity Full Stack Nanodegree project 2.
 
