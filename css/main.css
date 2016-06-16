@@ -28,9 +28,6 @@ a {
 
 .header-image {
     margin-top: 20px;
-    background-image: url("../img/background.jpg");
-    background-repeat: repeat-x;
-    height: 300px;
     width: 100%;
 }
 
